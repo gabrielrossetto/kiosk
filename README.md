@@ -4,6 +4,7 @@ This repository consists of a backend API and a frontend React application to ma
 
 ![Kiosk](https://github.com/gabrielrossetto/kiosk/blob/master/assets/kiosk.gif)
 
+
 ## Prerequisites
 
 - Node.js (v14+ recommended)
